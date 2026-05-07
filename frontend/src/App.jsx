@@ -2,7 +2,10 @@ import { useState } from "react";
 import ChatWindow from "./components/ChatWindow.jsx";
 import InputBar from "./components/InputBar.jsx";
 
-const API_URL = "/api/chat";
+// In dev, Vite proxies /api → localhost:8000. In production, set VITE_API_URL to your Render backend URL.
+const API_URL = import.meta.env.VITE_API_URL
+  ? `${import.meta.env.VITE_API_URL}/api/chat`
+  : "/api/chat";
 
 const SUGGESTED_QUESTIONS = [
   "Who is Dhivya Sri Lingala?",

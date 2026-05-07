@@ -12,8 +12,8 @@ app = FastAPI(title="Dhivya AI Agent API", version="1.0.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],
-    allow_credentials=True,
+    allow_origins=["*"],   # Vercel preview URLs are dynamic; restrict to your domain after launch
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -57,4 +57,4 @@ async def chat(request: ChatRequest):
 
 @app.get("/api/health")
 async def health():
-    return {"status": "ok", "model": "claude-sonnet-4-6"}
+    return {"status": "ok", "model": "qwen/qwen3-32b"}
