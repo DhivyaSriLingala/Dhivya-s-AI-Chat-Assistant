@@ -14,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-### 👉 [Try it live → dhivya-s-ai-chat-assistant.vercel.app](https://dhivya-s-ai-chat-assistant.vercel.app)
+### 👉 <a href="https://dhivya-s-ai-chat-assistant.vercel.app" target="_blank" rel="noopener noreferrer">Try it live → dhivya-s-ai-chat-assistant.vercel.app</a>
 
 **Sample questions to ask:**
 - *"Who is Dhivya Sri Lingala?"*
@@ -31,10 +31,10 @@
 
 | | |
 |---|---|
-| 🌐 Portfolio | [dhivya-sri-lingala.vercel.app](https://dhivya-sri-lingala.vercel.app/) |
-| 💼 LinkedIn | [linkedin.com/in/dhivya-sri-lingala](https://www.linkedin.com/in/dhivya-sri-lingala/) |
-| 🐙 GitHub | [github.com/DhivyaSriLingala](https://github.com/DhivyaSriLingala) |
-| 📧 Email | lingaladhivyasri24@gmail.com |
+| 🌐 Portfolio | <a href="https://dhivya-sri-lingala.vercel.app/" target="_blank" rel="noopener noreferrer">dhivya-sri-lingala.vercel.app</a> |
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/dhivya-sri-lingala/" target="_blank" rel="noopener noreferrer">linkedin.com/in/dhivya-sri-lingala</a> |
+| 🐙 GitHub | <a href="https://github.com/DhivyaSriLingala" target="_blank" rel="noopener noreferrer">github.com/DhivyaSriLingala</a> |
+| 📧 Email | <a href="mailto:lingaladhivyasri24@gmail.com">lingaladhivyasri24@gmail.com</a> |
 
 ---
 
@@ -80,18 +80,18 @@ You are an AI assistant specialized in answering questions about [YOUR NAME].
 
 ### Step 4 — Get a free Groq API key
 
-Sign up at [console.groq.com](https://console.groq.com) — free, no credit card needed.
+Sign up at <a href="https://console.groq.com" target="_blank" rel="noopener noreferrer">console.groq.com</a> — free, no credit card needed.
 
 ### Step 5 — Deploy
 
-**Backend → [Render.com](https://render.com)** (free tier)
+**Backend → <a href="https://render.com" target="_blank" rel="noopener noreferrer">Render.com</a>** (free tier)
 - Connect your forked repo
 - Root directory: `backend`
 - Build: `pip install -r requirements.txt`
 - Start: `uvicorn main:app --host 0.0.0.0 --port $PORT`
 - Add env var: `GROQ_API_KEY=gsk_...`
 
-**Frontend → [Vercel.com](https://vercel.com)** (free tier)
+**Frontend → <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">Vercel.com</a>** (free tier)
 - Connect your forked repo
 - Root directory: `frontend`
 - Add env var: `VITE_API_URL=https://your-render-app.onrender.com`
@@ -359,7 +359,7 @@ Top-4 scoring chunks are passed to the LLM as context. No embeddings, no vector 
 
 ### Prerequisites
 - Python 3.11+ and Node.js 18+
-- Free [Groq API key](https://console.groq.com)
+- Free <a href="https://console.groq.com" target="_blank" rel="noopener noreferrer">Groq API key</a>
 
 ### Backend
 ```bash
@@ -389,7 +389,7 @@ Open **http://localhost:5173**
 
 | Variable | Where | Description |
 |---|---|---|
-| `GROQ_API_KEY` | `backend/.env` | Groq LLM key — [get one free](https://console.groq.com) |
+| `GROQ_API_KEY` | `backend/.env` | Groq LLM key — <a href="https://console.groq.com" target="_blank" rel="noopener noreferrer">get one free</a> |
 | `VITE_API_URL` | Vercel dashboard | Render backend URL (production only) |
 
 ---
@@ -403,13 +403,13 @@ The backend runs on **Render** (free Python hosting) and the frontend on **Verce
 ### Part A — Backend on Render
 
 #### Prerequisites
-- A [Render account](https://render.com) — sign up free with GitHub
-- Your Groq API key (`gsk_...`) from [console.groq.com](https://console.groq.com)
+- A <a href="https://render.com" target="_blank" rel="noopener noreferrer">Render account</a> — sign up free with GitHub
+- Your Groq API key (`gsk_...`) from <a href="https://console.groq.com" target="_blank" rel="noopener noreferrer">console.groq.com</a>
 - This repo pushed to GitHub
 
 #### Step 1 — Connect your GitHub repo
 
-1. Log in to [render.com](https://render.com)
+1. Log in to <a href="https://render.com" target="_blank" rel="noopener noreferrer">render.com</a>
 2. Click **New +** → **Web Service**
 3. Under "Connect a repository", click **Connect GitHub**
 4. Authorise Render and select **`Dhivya-s-AI-Chat-Assistant`**
@@ -473,11 +473,11 @@ You should see:
 ### Part B — Frontend on Vercel
 
 #### Prerequisites
-- A [Vercel account](https://vercel.com) — sign up free with GitHub
+- A <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">Vercel account</a> — sign up free with GitHub
 
 #### Step 1 — Import the project
 
-1. Log in to [vercel.com](https://vercel.com)
+1. Log in to <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">vercel.com</a>
 2. Click **Add New… → Project**
 3. Find **`Dhivya-s-AI-Chat-Assistant`** and click **Import**
 
@@ -592,9 +592,9 @@ Graduate Research Assistant building agentic AI systems at the CATIA Lab. Experi
 
 | | |
 |---|---|
-| 🌐 Portfolio | [dhivya-sri-lingala.vercel.app](https://dhivya-sri-lingala.vercel.app/) |
-| 💼 LinkedIn | [linkedin.com/in/dhivya-sri-lingala](https://www.linkedin.com/in/dhivya-sri-lingala/) |
-| 🐙 GitHub | [github.com/DhivyaSriLingala](https://github.com/DhivyaSriLingala) |
+| 🌐 Portfolio | <a href="https://dhivya-sri-lingala.vercel.app/" target="_blank" rel="noopener noreferrer">dhivya-sri-lingala.vercel.app</a> |
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/dhivya-sri-lingala/" target="_blank" rel="noopener noreferrer">linkedin.com/in/dhivya-sri-lingala</a> |
+| 🐙 GitHub | <a href="https://github.com/DhivyaSriLingala" target="_blank" rel="noopener noreferrer">github.com/DhivyaSriLingala</a> |
 
 ---
 
