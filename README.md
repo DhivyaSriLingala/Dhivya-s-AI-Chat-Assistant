@@ -14,9 +14,8 @@
 
 ## 🚀 Live Demo
 
-### 👉 Try it live → [dhivya-s-ai-chat-assistant.vercel.app](https://dhivya-s-ai-chat-assistant.vercel.app)
-
-**Have a look at the portfolio because the Chat Assistant or the Personal Q&A AI there got this AI agent integrated in it. [dhivya-sri-lingala.vercel.app](https://dhivya-sri-lingala.vercel.app/)**
+### 👉 Try the deployed AI Agent → [dhivya-s-ai-chat-assistant.vercel.app](https://dhivya-s-ai-chat-assistant.vercel.app)
+### 👉 Try the integrated AI agent in the Portfolio → [dhivya-sri-lingala.vercel.app](https://dhivya-sri-lingala.vercel.app/)
 
 **Sample questions to ask:**
 - *"Who is Dhivya Sri Lingala?"*
