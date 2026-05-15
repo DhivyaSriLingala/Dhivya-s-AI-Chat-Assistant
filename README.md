@@ -114,6 +114,7 @@ That's it — your personalised AI agent is live. 🎉
 9. [Deploy to Production](#9-deploy-to-production)
 10. [API Reference](#10-api-reference)
 11. [Design Decisions](#11-design-decisions)
+12. [License](#-license)
 
 ---
 
@@ -596,6 +597,14 @@ Graduate Research Assistant building agentic AI systems at the CATIA Lab. Experi
 | 🌐 Portfolio | [dhivya-sri-lingala.vercel.app](https://dhivya-sri-lingala.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/dhivya-sri-lingala](https://www.linkedin.com/in/dhivya-sri-lingala/) |
 | 🐙 GitHub | [github.com/DhivyaSriLingala](https://github.com/DhivyaSriLingala) |
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+You are free to use, fork, and adapt this project for your own personal AI agent. If you do, a credit or a ⭐ on the repo is always appreciated!
 
 ---
 
