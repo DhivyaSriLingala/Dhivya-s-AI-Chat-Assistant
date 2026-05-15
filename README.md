@@ -6,7 +6,7 @@
 ![Groq](https://img.shields.io/badge/Groq-Qwen3--32B-F55036?style=flat)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-Free%20API-000000?style=flat&logo=wikipedia)
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=flat)
 
 > A full-stack **Retrieval-Augmented Generation (RAG)** AI agent that answers questions about **Dhivya Sri Lingala** by intelligently searching a personal knowledge base and Wikipedia — powered entirely by **free APIs**.
 
@@ -602,9 +602,11 @@ Graduate Research Assistant building agentic AI systems at the CATIA Lab. Experi
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+**© 2025 Dhivya Sri Lingala. All Rights Reserved.**
 
-You are free to use, fork, and adapt this project for your own personal AI agent. If you do, a credit or a ⭐ on the repo is always appreciated!
+This project and its source code are the exclusive property of Dhivya Sri Lingala. No part of this software may be reproduced, copied, modified, distributed, or used in any form without prior explicit written permission from the author.
+
+See the [LICENSE](LICENSE) file for full details. For permissions, contact [lingaladhivyasri24@gmail.com](mailto:lingaladhivyasri24@gmail.com).
 
 ---
 
